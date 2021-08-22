@@ -5,5 +5,7 @@ public class TestJenkins {
 	 System.out.println("Testing maven with Jenkins");
 	 System.out.println("Secound piece of code");
 	 System.out.println("Third piece of code");
+ 	 System.out.println("This is the fourth change and secound commit");
  }
+
 }
